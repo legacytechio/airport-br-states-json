@@ -1,0 +1,106 @@
+[
+    {
+        "codigo": "SBAR",
+        "estado": "Sergipe"
+    },
+    {
+        "codigo": "SBBE",
+        "estado": "Pará"
+    },
+    {
+        "codigo": "SBCF",
+        "estado": "Minas Gerais"
+    },
+    {
+        "codigo": "SBBV",
+        "estado": "Roraima"
+    },
+    {
+        "codigo": "SBBR",
+        "estado": "Distrito Federal"
+    },
+    {
+        "codigo": "SBCG",
+        "estado": "Mato Grosso do Sul"
+    },
+    {
+        "codigo": "SBCY",
+        "estado": "Mato Grosso"
+    },
+    {
+        "codigo": "SBCT",
+        "estado": "Paraná"
+    },
+    {
+        "codigo": "SBFL",
+        "estado": "Santa Catarina"
+    },
+    {
+        "codigo": "SBFZ",
+        "estado": "Ceará"
+    },
+    {
+        "codigo": "SBGO",
+        "estado": "Goiás"
+    },
+    {
+        "codigo": "SBJP",
+        "estado": "Paraíba"
+    },
+    {
+        "codigo": "SBMQ",
+        "estado": "Amapá"
+    },
+    {
+        "codigo": "SBMO",
+        "estado": "Alagoas"
+    },
+    {
+        "codigo": "SBMN",
+        "estado": "Amazonas"
+    },
+    {
+        "codigo": "SBNT",
+        "estado": "Rio Grande do Norte"
+    },
+    {
+        "codigo": "SBPA",
+        "estado": "Rio Grande do Sul"
+    },
+    {
+        "codigo": "SBPV",
+        "estado": "Rondônia"
+    },
+    {
+        "codigo": "SBRF",
+        "estado": "Pernambuco"
+    },
+    {
+        "codigo": "SBRB",
+        "estado": "Acre"
+    },
+    {
+        "codigo": "SBRJ",
+        "estado": "Rio de Janeiro"
+    },
+    {
+        "codigo": "SBSV",
+        "estado": "Bahia"
+    },
+    {
+        "codigo": "SBSL",
+        "estado": "Maranhão"
+    },
+    {
+        "codigo": "SBSP",
+        "estado": "São Paulo"
+    },
+    {
+        "codigo": "SBTE",
+        "estado": "Piauí"
+    },
+    {
+        "codigo": "SBVT",
+        "estado": "Espírito Santo"
+    }
+]
