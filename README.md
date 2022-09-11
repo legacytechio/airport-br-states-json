@@ -1,3 +1,3 @@
 # State airport codes br.
 
-A simple state/airport json.
+Simple state/airport json.
